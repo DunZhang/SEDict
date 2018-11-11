@@ -1,0 +1,1417 @@
+0,1
+user,6504502
+hertz,821
+binary,393249
+upload,815642
+shebang,7581
+web log,1118
+gigabit,556
+kilobit,106
+library,1571555
+megabit,170
+powerpc,781
+slashdot,343
+10base 2,0
+10base 5,0
+10base f,0
+10base t,0
+database,2810826
+download,953796
+gigabyte,5190
+keyboard,208873
+kilobyte,3373
+kibibyte,62
+megabyte,7778
+netscape,435
+terabyte,1761
+trace on,2819
+teletype,339
+variable,3473165
+10base fb,0
+10base fl,0
+10base fp,0
+100base t,1
+antivirus,5701
+bluetooth,34450
+bandwidth,33185
+dot pitch,19
+interface,864243
+kilohertz,18
+line feed,6778
+megahertz,39
+mini unix,1
+microsoft,263288
+superuser,11830
+temporary,173159
+trace off,34
+ultra dma,0
+xpinstall,83
+100base fx,0
+100base tx,0
+100base vg,0
+active hub,5
+bittorrent,777
+c compiler,8608
+end of day,658
+javascript,941825
+openoffice,1488
+process id,6815
+postscript,2345
+serial ata,4
+secure ftp,56
+active link,1795
+access list,1188
+access time,3916
+common name,3289
+development,406306
+end of file,10708
+end of line,9895
+file system,78084
+http secure,21
+lan manager,3
+motherboard,2142
+open source,81157
+pci express,5
+region code,484
+secure copy,129
+virtual fat,3
+wake on lan,50
+wireless lan,43
+binary digit,1839
+backside bus,0
+compact disc,17
+cable select,11
+disk at once,36
+enhanced ide,6
+gnu debugger,19
+gimp toolkit,0
+high density,760
+input/output,7389
+just in time,823
+localization,23425
+linux loader,22
+memory stick,392
+not a number,6286
+no operation,1134
+peer to peer,1439
+parallel ata,0
+ppp over atm,0
+pull request,24755
+run commands,3550
+single ended,32
+service pack,3765
+secure shell,174
+time to live,715
+visual basic,4562
+volume group,184
+wake on ring,0
+access method,5100
+active matrix,36
+access server,792
+cd recordable,0
+cd rewritable,0
+compact flash,39
+clear to send,21
+drag and drop,33335
+dots per inch,423
+data set name,178
+editor macros,14
+external sata,0
+globalization,2314
+gnu assembler,112
+it networking,31
+jump non zero,0
+load balancer,20524
+low frequency,694
+lines of code,55906
+lars pensjö c,0
+left to right,22707
+microsoft dos,1
+mail exchange,235
+nt filesystem,639
+out of memory,27685
+public domain,1964
+plug and play,732
+red hat linux,70
+right to left,12135
+ready to send,612
+symmetric dsl,0
+track at once,6
+truetype font,188
+u.s. robotics,0
+active monitor,118
+bit error rate,49
+bi directional,133
+canonical name,708
+close to metal,13
+double density,31
+dvd recordable,0
+dvd rewritable,0
+data warehouse,4105
+end of message,309
+end of support,94
+flat assembler,41
+function level,893
+front side bus,13
+gnu's not unix,0
+high frequency,1765
+knowledge base,2517
+logical volume,300
+microsoft edge,164
+new technology,1509
+nt lan manager,0
+openoffice.org,570
+out of the box,42340
+pin grid array,0
+quad data rate,1
+quasar toolkit,0
+remote desktop,4501
+secure digital,6
+single sign on,2245
+true tap audio,0
+text to speech,1819
+user interface,29826
+vesa local bus,0
+virtual memory,11503
+world wide web,311
+cross platform,14756
+average bitrate,72
+acknowledgement,4364
+byte order mark,1494
+bits per second,330
+carriage return,16775
+dead on arrival,20
+electronic mail,52
+hard disk drive,304
+hewlett packard,9
+hyper threading,216
+logical extents,2
+list processing,344
+land grid array,0
+mail user agent,51
+object oriented,14250
+pixels per inch,509
+physical volume,153
+radio frequency,68
+real time clock,220
+system operator,36
+turbo assembler,13
+tex users group,0
+user mode linux,14
+user experience,17534
+virtual reality,189
+virtual machine,38395
+video on demand,105
+video terminal?,25
+windows runtime,243
+world wide name,1
+acoustic coupler,1
+active directory,6470
+cathode ray tube,5
+computer science,6476
+double data rate,9
+host bus adapter,5
+high memory area,4
+javaserver pages,1
+java users group,1
+linux user group,6
+lempel ziv welch,0
+medium frequency,6
+non blocking i/o,14
+operating system,74777
+physical extents,6
+quote of the day,81
+remove directory,284
+"red, green, blue",985
+remote job entry,1
+read only memory,425
+superuser binary,4
+system on a chip,15
+shock wave flash,5
+top level domain,1087
+watcom assembler,1
+zip file archive,12
+first normal form,490
+third normal form,345
+fifth normal form,32
+sixth normal form,16
+available bitrate,4
+allowed cell rate,0
+apple desktop bus,0
+audio modem riser,0
+another neat tool,2
+ata over ethernet,12
+active terminator,0
+computer graphics,958
+data flow diagram,112
+dennis m. ritchie,0
+denial of service,860
+disaster recovery,615
+extended data out,0
+floppy disk drive,22
+file system check,47
+fiber to the curb,0
+fiber to the home,2
+gnu pic assembler,0
+gnu privacy guard,0
+high availability,2456
+hybrid hard drive,4
+internet explorer,9475
+instant messaging,895
+internet protocol,238
+interrupt request,238
+last in first out,119
+memory mapped i/o,16
+microsoft network,13
+netwide assembler,5
+object identifier,812
+open sound system,2
+personal computer,1114
+point of presence,10
+ppp over ethernet,0
+personal system/2,0
+power supply unit,9
+quality assurance,272
+quad flat package,0
+release candidate,1803
+solid state drive,136
+texas instruments,23
+type length value,5
+upper memory area,3
+unix to unix copy,0
+wide area network,70
+year two thousand,2
+zero one infinity,1
+second normal form,120
+fourth normal form,22
+area border router,1
+abstract data type,978
+adaptive equalizer,0
+bourne again shell,14
+baseband processor,20
+bootstrap protocol,1
+control flow graph,345
+content management,2721
+common user access,0
+data access object,760
+digital audio tape,1
+depth first search,1228
+demilitarized zone,18
+distinguished name,974
+domain name system,52
+desktop publishing,133
+electronic id card,1
+extended unix code,0
+file control block,9
+fiber connectivity,0
+first in first out,251
+google web toolkit,87
+integrated circuit,84
+i/o controller hub,0
+internet of things,49
+in plane switching,0
+i/o request packet,0
+java micro edition,1
+local area network,579
+least cost routing,6
+linux from scratch,20
+model based design,4
+master boot record,41
+message of the day,54
+multi user dungeon,3
+near end crosstalk,0
+peripheral gateway,1
+power on self test,3
+quality of service,263
+regular expression,198024
+run length limited,0
+simple api for xml,0
+small outline dimm,0
+upper memory block,1
+very low frequency,66
+wait for interrupt,22
+cross platform idl,0
+alternating current,7
+access control list,719
+active current loop,0
+active server pages,20
+advanced technology,67
+business continuity,43
+binary large object,159
+cd read only memory,0
+data access objects,346
+exchange activesync,6
+eric steven raymond,0
+floating point unit,339
+folding white space,19
+high definition dvd,0
+http live streaming,146
+in circuit emulator,2
+input method editor,216
+internet relay chat,2
+information systems,156
+job entry subsystem,2
+java desktop system,0
+low insertion force,0
+least recently used,403
+linux standard base,5
+long term evolution,4
+logical unit number,10
+mail delivery agent,14
+mud object oriented,0
+microprocessor unit,1
+machine translation,337
+mail transfer agent,101
+microsoft installer,17
+netbios over tcp/ip,0
+network file system,251
+no internal message,0
+name service switch,10
+optical mark reader,4
+pretty good privacy,2
+post memory manager,0
+power over ethernet,4
+run length encoding,237
+rpm package manager,10
+standard build unit,0
+single edge contact,0
+single system image,10
+secure socket layer,38
+time sharing option,1
+universal user name,0
+visual basic script,94
+— virtual hard disk,0
+virtual file system,595
+very high frequency,120
+windows media audio,2
+windows media video,7
+x multimedia system,0
+extreme programming,99
+atm adaptation layer,0
+activex data objects,8
+algorithmic language,6
+amplitude modulation,34
+abstract syntax tree,1775
+business to business,45
+business to consumer,3
+business to employee,0
+binary coded decimal,82
+breadth first search,850
+blue screen of death,95
+computer accountancy,0
+context free grammar,577
+color graphics array,0
+cylinder head sector,1
+cross site scripting,1142
+data integrity field,0
+dual in line package,0
+dynamic link library,923
+data loss protection,0
+direct memory access,223
+database source name,4
+dvd read only memory,0
+extended file system,4
+frame check sequence,16
+function programming,86
+finite state machine,1542
+fiber to the antenna,0
+for your information,1160
+guid partition table,0
+high level assembler,13
+internationalization,5495
+initial program load,4
+java 2 micro edition,0
+job control language,4
+java development kit,68
+jini is not initials,0
+java message service,3
+java virtual machine,486
+light emitting diode,6
+ line print terminal,0
+media access control,20
+meta object protocol,20
+most significant bit,2949
+national instruments,14
+one laptop per child,1
+object module format,2
+open source software,1660
+random access memory,87
+remote data services,9
+request for comments,37
+read out motherboard,0
+real time enterprise,0
+storage area network,10
+serial attached scsi,1
+source lines of code,36
+server message block,4
+silicon on insulator,0
+server side includes,283
+thin film transistor,1
+three letter acronym,23
+thread local storage,764
+user account control,78
+ultra high frequency,4
+universal serial bus,5
+ virtual dos machine,0
+video graphics array,0
+zero insertion force,0
+intel 80286 processor,0
+2 binary 1 quaternary,0
+intel 80386 processor,0
+intel 80486 processor,0
+advanced audio coding,0
+administrative domain,30
+anisotropic filtering,79
+apple filing protocol,1
+allied mastercomputer,0
+advanced video coding,1
+bulletin board system,23
+business intelligence,466
+bring your own device,2
+computer aided design,6
+characters per second,63
+data control language,0
+dynamic data exchange,16
+dworkin's game driver,0
+digital video express,0
+document object model,332
+disk operating system,10
+file allocation table,76
+front end motherboard,0
+fiber to the premises,0
+gnu compiler for java,2
+group coded recording,0
+internet key exchange,0
+intermediate language,875
+intellectual property,623
+ip address management,0
+internet storm center,0
+just a bunch of disks,5
+java native interface,62
+java standard edition,9
+kernighan and ritchie,1
+k desktop environment,0
+least significant bit,2651
+linear temporal logic,7
+mobile ad hoc network,4
+mail submission agent,4
+model view controller,356
+mobile world congress,1
+netware core protocol,0
+network time protocol,29
+object request broker,3
+platform as a service,125
+personal area network,31
+portable batch system,2
+printed circuit board,16
+process control block,90
+pulse code modulation,12
+plain old java object,110
+physical volume group,0
+remote access service,8
+relational data model,300
+remote procedure call,832
+rivest shamir adleman,0
+responsive web design,833
+software as a service,136
+serial bus protocol 2,0
+small business server,12
+secure hash algorithm,72
+subject matter expert,109
+short message service,12
+scalable video coding,2
+tool command language,12
+uniform resource name,7
+ virtual tape library,2
+wireless access point,202
+world wide identifier,0
+xerox network systems,0
+xml schema definition,28
+zero code suppression,0
+amsterdam compiler kit,0
+advanced micro devices,1
+a programming language,8098
+advanced risc machines,0
+block availability map,0
+boyce–codd normal form,0
+binary file descriptor,6
+command line interface,3712
+cloud service provider,105
+cascading style sheets,206
+closed source software,74
+comma separated values,3778
+database administrator,503
+direct media interface,0
+deep packet inspection,69
+digital versatile disc,3
+digital video recorder,10
+encrypting file system,2
+enterprise service bus,90
+floppy disk controller,8
+floating point systems,14
+field replaceable unit,0
+file transfer protocol,230
+fear uncertainty doubt,0
+file exchange protocol,3
+opengl utility toolkit,1
+general public license,7
+human interface device,42
+information technology,93
+java community process,2
+"keyboard, video, mouse",0
+linux apache mysql php,2
+liquid crystal display,7
+man machine interface.,17
+memory management unit,215
+multi media extensions,0
+mozilla public license,3
+native command queuing,8
+non maskable interrupt,9
+novell storage service,0
+network video recorder,1
+open enterprise server,0
+out of order execution,123
+open source initiative,31
+please find attachment,4
+hypertext preprocessor,12
+raster image processor,9
+radio service software,0
+source code management,442
+software defined radio,37
+subminiature version a,0
+system management bios,0
+stop online piracy act,0
+service set identifier,2
+structured vlsi design,0
+user datagram protocol,8
+visual processing unit,0
+windows future storage,1
+wi fi protected access,0
+web services discovery,0
+x interactive listproc,0
+extended triton format,0
+yet another setup tool,1
+zone multicast address,0
+airline control program,0
+apple display connector,0
+artificial intelligence,645
+apache portable runtime,19
+advanced risc computing,0
+abstract semantic graph,2
+audio video interleaved,0
+abstract window toolkit,2
+basic assembly language,10
+boot configuration data,3
+border gateway protocol,1
+bayonet neill concelman,0
+broadband radio service,0
+block started by symbol,7
+common language runtime,862
+control program/monitor,0
+central processing unit,56
+cyclic redundancy check,80
+common system interface,0
+computerized tomography,0
+direct client to client,10
+distributed file system,591
+deferred procedure call,8
+digital subscriber line,1
+enhanced graphics array,0
+extremely low frequency,1
+electrostatic discharge,3
+fedora directory server,0
+field effect transistor,2
+gnu compiler collection,7
+"garbage in, garbage out",95
+internet cache protocol,0
+instructions per second,103
+interval temporal logic,0
+java 2 standard edition,0
+java enterprise edition,8
+java foundation classes,1
+joint test action group,0
+linux apache mysql perl,0
+large scale integration,2
+main distribution frame,0
+native language support,29
+netscape public license,0
+network processing unit,0
+object management group,1
+programmable gate array,6
+programmed input/output,0
+post office protocol v3,0
+point to point protocol,10
+platform specific model,4
+personal video recorder,3
+revision control system,664
+source code in database,2
+scalable link interface,0
+single page application,4240
+sender policy framework,6
+small scale integration,3
+standard widget toolkit,3
+trusted platform module,10
+user acceptance testing,69
+universal character set,20
+uncommitted logic array,0
+unshielded twisted pair,0
+virtual machine monitor,28
+virtual private network,61
+wide area file services,0
+auto baud rate detection,8
+aho weinberger kernighan,0
+byzantine fault tolerant,4
+basic multilingual plane,109
+business reference model,0
+compact disk file system,0
+content delivery network,408
+cisco discovery protocol,0
+common gateway interface,25
+common information model,5
+configuration management,1272
+commercial off the shelf,8
+computational tree logic,1
+data definition language,154
+data encryption standard,7
+definitive media library,0
+direct rendering manager,1
+domain specific language,789
+digital signal processor,23
+document type definition,93
+digital visual interface,0
+"extract, transform, load",26
+fortran assembly program,0
+forward error correction,46
+future mode of operation,1
+free software foundation,8
+graphical user interfase,0
+general purpose language,385
+graphics processing unit,47
+graphical user interface,1151
+hierarchical file system,48
+hypertransport expansion,0
+inter integrated circuit,0
+intermediate data format,12
+java runtime environment,160
+logical block addressing,8
+low voltage differential,0
+mandatory access control,57
+multi byte character set,19
+medium scale integration,0
+multiple virtual storage,0
+material exchange format,0
+negative acknowledgement,44
+network attached storage,50
+near field communication,16
+network operating system,7
+open shortest path first,1
+printer command language,2
+portable document format,9
+power line communication,2
+programming language one,8
+ remote desktop protocol,31
+red hat enterprise linux,9
+remote method invocation,162
+richard matthew stallman,0
+report program generator,0
+repetitive strain injury,7
+software development kit,159
+simple directmedia layer,4
+service delivery network,0
+select graphic rendition,4
+service level management,1
+switch mode power supply,0
+system management server,0
+small office/home office,0
+static single assignment,53
+scalable vector graphics,55
+transport layer security,102
+terminal node controller,0
+uniform resource locator,40
+wired equivalent privacy,0
+"write once, run anywhere",107
+x window display manager,0
+ xml paper specification,0
+extensible tag framework,0
+two factor authentication,467
+axis aligned bounding box,87
+accelerated graphics port,0
+artificial neural network,384
+algorithmic state machine,0
+acronym with four letters,0
+binary automatic computer,0
+basic input output system,1
+bridge protocol data unit,2
+business process modeling,20
+business readiness rating,0
+consumer electronics show,1
+chief information officer,0
+current mode of operation,8
+content management system,1808
+content scrambling system,0
+client to client protocol,2
+directory access protocol,2
+double byte character set,18
+dual inline memory module,0
+digital rights management,30
+exterior gateway protocol,0
+entity relationship model,57
+event tracing for windows,5
+free lossless audio codec,1
+graphics device interface,6
+geography markup language,0
+grand unified boot loader,0
+high throughput computing,4
+hypertext markup language,7
+interactive data language,3
+infrared data association,0
+internet service provider,132
+interrupt service routine,579
+java 2 enterprise edition,1
+linux apache mysql python,0
+liquid crystal on silicon,0
+linux kernel mailing list,14
+logical volume management,6
+metropolitan area network,0
+model driven architecture,14
+maximum transmission unit,40
+network access protection,0
+novell directory services,0
+network operations center,2
+network service interface,0
+netscape portable runtime,0
+network security services,0
+non uniform memory access,0
+object relational mapping,231
+operations support system,2
+palo alto research center,0
+programmed data processor,0
+public key infrastructure,65
+programmable logic device,9
+portable network graphics,7
+remote desktop connection,532
+rich internet application,141
+run time type information,40
+ security account manager,2
+single document interface,11
+structured query language,47
+streaming simd extensions,0
+single unix specification,2
+unified modeling language,3
+virtual address extension,1
+virtual network computing,0
+world wide web consortium,0
+8 byte 10 byte local fiber,0
+asynchronous balanced mode,1
+automatic call distributor,0
+apple lossless audio codec,1
+adaptive replacement cache,0
+asymmetric multiprocessing,5
+abstract syntax notation 1,0
+asynchronous transfer mode,2
+broadband over power lines,0
+business software alliance,0
+by eight (group of 8 bits),0
+computer aided engineering,0
+computer aided instruction,0
+computer aided translation,0
+common desktop environment,2
+continuous data protection,1
+computer generated imagery,3
+computational graph theory,0
+common internet filesystem,0
+committed information rate,0
+computer numerical control,0
+carriage return line feeds,20
+cross site request forgery,159
+database abstraction layer,476
+database management system,1029
+distributed control system,6
+data manipulation language,82
+ethernet in the first mile,0
+end user license agreement,24
+frequently asked questions,99
+full volume encryption key,0
+globally unique identifier,232
+hardware abstraction layer,114
+human computer interaction,20
+human interface guidelines,129
+high performance computing,176
+holographic versatile disc,0
+integrated interchip sound,0
+intrusion detection system,80
+internet printing protocol,3
+internet protocol security,0
+java database connectivity,10
+ibm journaling file system,0
+java management extensions,3
+javascript object notation,86
+micro channel architecture,0
+microsoft certified master,0
+monochrome display adapter,1
+multi mode (optical) fiber,0
+mean time between failures,5
+message signaled interrupt,0
+most valuable professional,0
+network equipment provider,0
+network security appliance,4
+open database connectivity,6
+personal digital assistant,8
+platform independent model,4
+regional internet registry,3
+real time operating system,105
+single channel per carrier,0
+search engine optimization,279
+ssh file transfer protocol,2
+symmetric multi processing,3
+stateful packet inspection,9
+super video graphics array,0
+traveling salesman problem,277
+coordinated universal time,35
+universal virtual computer,0
+universal windows platform,79
+virtual local area network,3
+very long instruction word,2
+video random access memory,0
+"write once, run everywhere",42
+web services flow language,0
+wireless wide area network,0
+extensible markup language,10
+yaml ain't markup language,0
+f—4 byte 5 byte local fiber,0
+analog to digital converter,44
+arithmetic and logical unit,1
+aspect oriented programming,357
+address resolution protocol,8
+asynchronous signal routine,0
+bipolar junction transistor,0
+business process management,55
+cell processor architecture,0
+digital to analog converter,10
+debian common core alliance,0
+domain keys identified mail,0
+digital signature algorithm,40
+elliptic curve cryptography,68
+electronic data interchange,4
+entity relationship diagram,162
+fully qualified domain name,739
+graphics interchange format,2
+hardware compatibility list,6
+hypertext transfer protocol,12
+internet connection sharing,22
+independent hardware vendor,0
+internet inter orb protocol,0
+inter process communication,544
+intrusion prevention system,13
+internet protocol version 4,4
+internet protocol version 6,1
+intermediate representation,879
+independent software vendor,20
+java api for xml processing,2
+microsoft certified trainer,0
+multiple document interface,38
+management information base,5
+message oriented middleware,55
+microsoft office specialist,0
+microsoft developer network,3
+network address translation,129
+natural language processing,970
+native posix thread library,2
+object oriented programming,3058
+profile guided optimization,67
+spinning beachball of death,10
+secure digital input output,0
+single inline memory module,0
+session initiation protocol,14
+single mode (optical) fiber,0
+software project management,47
+simultaneous multithreading,32
+serial peripheral interface,2
+static random access memory,1
+single source shortest path,68
+terminate and stay resident,14
+transistor transistor logic,0
+universal naming convention,16
+uniform resource identifier,46
+variable length subnet mask,3
+wireless local area network,5
+wireless zero configuration,0
+xml common business library,0
+xml user interface language,0
+zero insertion force socket,0
+application binary interface,181
+advanced encryption standard,4
+application service provider,88
+computer aided manufacturing,0
+computational fluid dynamics,28
+cryptography next generation,2
+computer reservations system,0
+compatibility support module,1
+discretionary access control,25
+dos protected mode interface,0
+dynamic random access memory,0
+electronic design automation,5
+eight to fourteen modulation,0
+enterprise resource planning,7
+frequency division duplexing,0
+general parallel file system,2
+general packet radio service,0
+high performance file system,3
+hierarchical temporal memory,0
+integrated drive electronics,0
+information systems security,0
+internet protocol television,0
+internetwork packet exchange,0
+instruction set architecture,180
+ java cryptography extension,5
+layer two tunneling protocol,0
+linux professional institute,0
+[windows] millennium edition,0
+microsoft foundation classes,2
+network interface controller,27
+online analytical processing,26
+object linking and embedding,11
+organic light emitting diode,0
+open systems interconnection,0
+open source technology group,0
+personal information manager,5
+persistent object identifier,3
+radio frequency interference,0
+routing information protocol,3
+real time transport protocol,5
+real time streaming protocol,6
+session description protocol,7
+suse linux enterprise server,4
+systems network architecture,0
+simple network time protocol,0
+uninterruptible power supply,10
+very large scale integration,0
+voice over internet protocol,1
+very small aperture terminal,0
+web accessibility initiative,0
+wide area information server,0
+what you see is what you get,115
+xml accessibility guidelines,0
+z level programming language,0
+berkeley internet name domain,0
+code division multiple access,2
+"chinese, japanese, and korean",0
+cryptographic next generation,0
+common public radio interface,0
+distributed denial of service,19
+digital equipment corporation,0
+extensible firmware interface,0
+expanded memory specification,0
+enterprise systems connection,0
+extended window manager hints,3
+fibre channel arbitrated loop,0
+filesystem hierarchy standard,6
+free and open source software,49
+field programmable gate array,1
+geographic information system,25
+gsm edge radio access network,0
+hardware description language,99
+interface definition language,40
+integrated facility for linux,0
+internet information services,35
+inter procedural optimization,7
+internet storage name service,0
+interactive virtual classroom,0
+lesser general public license,2
+microsoft certified architect,1
+multiple channels per carrier,0
+modified frequency modulation,0
+mortality medical data system,0
+ microsoft management console,4
+motion pictures experts group,0
+multiprotocol label switching,0
+non uniform rational b spline,0
+online transaction processing,33
+programmable logic controller,20
+power line telecommunications,0
+peer name resolution protocol,0
+preboot execution environment,1
+quarter small outline package,0
+rapid application development,177
+synchronous digital hierarchy,0
+simple file transfer protocol,7
+suse linux enterprise desktop,1
+serial line internet protocol,1
+"single program, multiple data",6
+simple mail transfer protocol,8
+service oriented architecture,258
+simple object access protocol,11
+transmission control protocol,15
+time division multiple access,5
+unicode transformation format,3
+universally unique identifier,113
+visual basic for applications,23
+virtual storage access method,0
+wireless application protocol,1
+windows internet name service,0
+wireless universal serial bus,0
+extended memory specification,0
+yet another compiler compiler,7
+zero instruction set computer,0
+attribute based access control,22
+advanced computing environment,0
+attenuation to crosstalk ratio,0
+advanced interactive executive,0
+aros research operating system,0
+advanced technology attachment,0
+berkeley software distribution,0
+classless inter domain routing,2
+computer telephony integration,2
+compatible time sharing system,0
+deterministic finite automaton,157
+deutsches institut für normung,0
+electronic frontier foundation,0
+executable and linkable format,3
+gnu free documentation license,0
+gnu image manipulation program,0
+hird of unix replacing daemons,0
+industry standard architecture,0
+jackson structured programming,0
+media gateway control protocol,0
+multiple input multiple output,4
+management information systems,0
+microsoft technology associate,0
+negative acknowledge character,0
+network news transfer protocol,0
+operational acceptance testing,0
+programming language for prime,0
+post schema validation infoset,5
+resource description framework,3
+radio frequency identification,4
+software engineering institute,1
+"silicon graphics, incorporated",0
+single input and single output,11
+standard operating environment,6
+telecommunication control unit,0
+trivial file transfer protocol,2
+ultra mobile personal computer,0
+virtual desktop infrastructure,2
+wireless personal area network,1
+extensible stylesheet language,2
+zone constant angular velocity,0
+atm adaptation layer connection,0
+actor based concurrent language,0
+asynchronous javascript and xml,18
+automatic private ip addressing,0
+authenticated internet protocol,0
+business rule management system,5
+comprehensive r archive network,0
+"create, read, update and delete",134
+compile time function execution,4
+dublin core metadata initiative,0
+digital living network alliance,0
+direct rendering infrastructure,0
+extensible binary meta language,0
+frequency division multiplexing,3
+free/libre/open source software,0
+hierarchical storage management,9
+international business machines,1
+intermediate distribution frame,0
+internet engineering task force,0
+million instructions per second,13
+multiple image network graphics,0
+apple quicktime multimedia file,0
+original equipment manufacturer,10
+o'reilly open source convention,0
+open source development network,0
+peripheral interface controller,0
+real time disk operating system,0
+representational state transfer,34
+real time application interface,0
+small computer system interface,0
+supplementary ideographic plane,0
+"single instruction, single data",0
+scalable processor architecture,1
+software specification document,0
+software und system entwicklung,0
+transaction processing facility,1
+web based enterprise management,0
+windows presentation foundation,32
+extended video graphics adapter,0
+z object publishing environment,0
+computer aided industrial design,0
+computer aided quality assurance,0
+computer emergency response team,0
+complex instruction set computer,4
+customer relationship management,12
+computer science and engineering,5
+concurrent versioning system|cvs,9276
+dns dhcp & ip address management,0
+digital millennium copyright act,0
+explicit congestion notification,1
+expense and cost recovery system,0
+fiber distributed data interface,0
+internet message access protocol,0
+indexed sequential access method,3
+junction field effect transistor,0
+joint photographic experts group,0
+microsoft certified professional,0
+microsoft office user specialist,0
+nondeterministic polynomial time,11
+password authentication protocol,3
+plesiochronous digital hierarchy,0
+proportional integral derivative,0
+professional services automation,0
+resource access control facility,0
+reduced instruction set computer,8
+supplementary multilingual plane,0
+secure socket tunneling protocol,0
+ image(tagged image file format),0
+windows communication foundation,17
+wavelength division multiplexing,0
+web proxy autodiscovery protocol,0
+advanced linux sound architecture,1
+advanced message queuing protocol,0
+application programming interface,294
+advanced research projects agency,0
+common data security architecture,0
+computationally independent model,0
+configuration management database,5
+common business oriented language,0
+comprehensive tex archive network,0
+dynamic hypertext markup language,0
+high speed downlink packet access,0
+internet control message protocol,0
+interior gateway routing protocol,0
+interactive voice response system,2
+java architecture for xml binding,0
+knowledge representation language,4
+link aggregation control protocol,0
+"multiple instruction, single data",1
+novell distributed print services,0
+network basic input/output system,0
+nondeterministic finite automaton,40
+non volatile random access memory,0
+outline processor markup language,1
+peripheral component interconnect,0
+programmable interrupt controller,24
+public key cryptography standards,0
+point to point tunneling protocol,0
+routing and remote access service,1
+software configuration management,50
+"single instruction, multiple data",16
+symbolic optimal assembly program,0
+simple service discovery protocol,3
+virtual control program interface,0
+virtual reality modeling language,0
+windows push notification service,5
+web services description language,1
+yet another application framework,0
+asymmetric digital subscriber line,0
+address and routing parameter area,0
+address space layout randomization,118
+bidirectional forwarding detection,0
+comprehensive perl archive network,0
+communicating sequential processes,14
+distributed component object model,1
+display power management signaling,0
+dynamic systems development method,0
+enterprise application integration,17
+extensible authentication protocol,0
+frequency division multiple access,0
+html application rapid development,0
+host embedded controller interface,0
+integrated development environment,296
+internet group management protocol,0
+magnetic ink character recognition,1
+open and free technology community,0
+organisationally unique identifier,0
+pci extensions for instrumentation,0
+secure content storage association,0
+special interest group on graphics,0
+simple network management protocol,3
+threaded neill concelman connector,0
+x display manager control protocol,0
+association for computing machinery,0
+automated security enhancement tool,0
+blocks extensible exchange protocol,0
+business process execution language,2
+computer aided software engineering,0
+communications and networking riser,0
+dynamic host configuration protocol,3
+general purpose instrumentation bus,0
+houston automatic spooling priority,0
+hypertext transport protocol daemon,0
+internet assigned numbers authority,0
+intel binary compatibility standard,0
+integrated services digital network,0
+java xml for remote procedure calls,0
+java naming and directory interface,0
+model driven (software) development,4
+"multiple instruction, multiple data",0
+perl compatible regular expressions,26
+program for internet news and email,0
+queued teleprocessing access method,0
+reverse address resolution protocol,0
+supplementary special purpose plane,0
+user agent accessibility guidelines,0
+ windows management instrumentation,6
+advanced step in innovative mobility,0
+datagram congestion control protocol,0
+document schema definition languages,0
+floating point operations per second,25
+free on line dictionary of computing,0
+great internet mersenne prime search,0
+gnu network object model environment,0
+high definition multimedia interface,0
+intrusion countermeasure electronics,0
+microsoft certified systems engineer,0
+musical instrument digital interface,0
+phystechsoft   disk operating system,0
+redundant array of independent disks,3
+redundant array of inexpensive tapes,0
+stream control transmission protocol,2
+standard generalized markup language,0
+web content accessibility guidelines,3
+extensible hypertext markup language,1
+first generation programming language,0
+third generation programming language,0
+fifth generation programming language,2
+appletalk address resolution protocol,0
+american national standards institute,0
+capability maturity model integration,0
+hurd of interfaces representing depth,0
+internationalized resource identifier,2
+international telecommunication union,0
+lightweight directory access protocol,2
+massachusetts institute of technology,0
+multipurpose internet mail extensions,1
+motion picture association of america,0
+next generation secure computing base,0
+relational database management system,244
+unified extensible firmware interface,0
+universal automatic computer (by mks),0
+cross platform component object model,2
+second generation programming language,1
+fourth generation programming language,0
+american registry for internet numbers,0
+basic telecommunications access method,0
+embedded configurable operating system,0
+ enhanced data rates for gsm evolution,0
+erasable programmable read only memory,1
+microsoft certified solution developer,0
+network driver interface specification,0
+quality windows audio/video experience,0
+resource acquisition is initialization,56
+the real time operating system nucleus,0
+technology without an interesting name,0
+extensible application markup language,1
+application specific integrated circuit,1
+authoring tool accessibility guidelines,0
+complementary metal oxide semiconductor,0
+component object model or communication,0
+extended industry standard architecture,0
+formatted output specification instance,0
+global system for mobile communications,0
+personal computer disc operating system,0
+programming language for microcomputers,1
+security descriptor definition language,5
+supplementary streaming simd extensions,0
+video electronics standards association,0
+"authentication authorization, accounting",0
+digital research   disk operating system,0
+fully buffered dual inline memory module,0
+federal information processing standards,0
+information and communication technology,0
+internet small computer system interface,0
+interactive system productivity facility,0
+recursive functions algorithmic language,0
+read only memory   disk operating system,0
+supervisory control and data acquisition,0
+synchronous dynamic random access memory,0
+virtual telecommunications access method,0
+www distributed authoring and versioning,0
+advanced research projects agency network,0
+"chinese, japanese, korean, and vietnamese",0
+common object request broker architecture,0
+defense advanced research projects agency,0
+data terminal ready or data transfer rate,0
+explicitly parallel instruction computing,1
+international electrotechnical commission,0
+intelligent platform management interface,0
+microsoft certified application developer,0
+microsoft certified systems administrator,0
+microsoft certified technology specialist,0
+open base station architecture initiative,0
+recording industry association of america,0
+tandy radio shack   disk operating system,0
+very high bitrate digital subscriber line,0
+atomicity consistency isolation durability,0
+advanced configuration and power interface,0
+active matrix organic light emitting diode,0
+advanced programmable interrupt controller,4
+digital subscriber line access multiplexer,0
+enhanced interior gateway routing protocol,0
+intermediate system to intermediate system,0
+microsoft certified application specialist,0
+microsoft certified database administrator,0
+microsoft certified professional developer,0
+orthogonal frequency division multiplexing,0
+remote authentication dial in user service,0
+universal mobile telecommunications system,0
+universal terrestrial radio access network,0
+extensible messaging and presence protocol,1
+challenge handshake authentication protocol,0
+european computer manufacturers association,0
+messaging application programming interface,0
+practical extraction and reporting language,1
+telephony application programming interface,0
+the ultimate collection of winsock software,0
+universal asynchronous receiver/transmitter,5
+automated classification of medical entities,0
+deployment image and service management tool,0
+electronic numerical integrator and computer,0
+multichannel multipoint distribution service,0
+"reliability, availability and serviceability",1
+synchronized multimedia integration language,0
+secure/multipurpose internet mail extensions,0
+data terminal equipment or data transfer rate,0
+electronic delay storage automatic calculator,0
+information technology infrastructure library,0
+application layer protocol control information,0
+extended binary coded decimal interchange code,0
+"goals, operators, methods, and selection rules",0
+international organization for standardization,1
+microsoft certified desktop support technician,0
+massively multiplayer online role playing game,0
+national institute of standards and technology,0
+real time executive for multiprocessor systems,0
+single pair high speed digital subscriber line,0
+extensible stylesheet language transformations,1
+advanced data communications control procedures,0
+advanced technology attachment packet interface,0
+data over cable service interface specification,0
+electronic discrete variable automatic computer,0
+intra site automatic tunnel addressing protocol,0
+national center for supercomputing applications,0
+transmission control protocol/internet protocol,0
+worldwide interoperability for microwave access,0
+beginner's all purpose symbolic instruction code,0
+institute of electrical and electronics engineers,0
+metal oxide semiconductor field effect transistor,0
+reduced instruction set computer operating system,0
+"universal description, discovery, and integration",0
+extensible stylesheet language formatting objects,0
+american standard code for information interchange,1
+berkeley open infrastructure for network computing,0
+microprocessor without interlocked pipeline stages,0
+standard commands for programmable instrumentation,0
+document style semantics and specification language,0
+internet corporation for assigned names and numbers,0
+electronically erasable programmable read only memory,0
+"portable operating system interface, formerly ieee ix",0
+carrier sense multiple access with collision detection,1
+general purpose computing on graphics processing units,0
+microsoft certified information technology professional,0
+personal computer memory card international association,0
+free and open source software developers' european meeting,0
+special interest group on cd rom applications and technology,0
+"rich site summary, rdf site summary, or really simple syndication",0
+organization for the advancement of structured information standards,2
+completely automated public turing test to tell computers and humans apart,0
+" fixed mobile convergence ""mobile uc or unified communications over wireless""",0
